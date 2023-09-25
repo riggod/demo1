@@ -14,6 +14,6 @@ func main() {
 	fmt.Scanln(&college)
 	fmt.Printf("Enter Student roll no:")
 	fmt.Scanln(&rno)
-	fmt.Println("Info:")
+
 	fmt.Printf("Student name:%s\nDivision:%s\nCollege name:%s\nRoll no:%d", sname, div, college, rno)
 }
