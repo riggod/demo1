@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var sname, college, div string
-	var rno int
+	var rno, go int,
 
 	fmt.Printf("Enter Student name:")
 	fmt.Scanln(&sname)
